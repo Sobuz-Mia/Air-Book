@@ -11,8 +11,8 @@ function App() {
       <div className="max-w-7xl mx-auto">
         <Navbar />
         <Banner className="max-w-6xl mx-auto"/>
-        <DealAndOffer/>
         <FeatureDestination/>
+        <DealAndOffer/>
         <Footer/>
       </div>
     </>
